@@ -1,1 +1,2 @@
-This is a very basic version of the 
+This is a very basic version of Blackjack game using Python.
+
